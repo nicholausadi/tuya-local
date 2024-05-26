@@ -1,6 +1,8 @@
 name: Universal remote control
 products:
   - id: whs3cty93fzrqkpt
+  - id: ejv37o6yz9vtxcuo
+    name: Smart IR S06CB3S
 primary_entity:
   entity: remote
   dps:
