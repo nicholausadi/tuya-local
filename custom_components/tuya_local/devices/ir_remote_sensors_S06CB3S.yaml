@@ -1,0 +1,15 @@
+name: Smart IR S06CB3S
+products:
+  - id: ejv37o6yz9vtxcuo
+primary_entity:
+  entity: remote
+  dps:
+    - id: 201
+      name: send
+      type: string
+      optional: true
+    - id: 202
+      name: receive
+      type: string
+      optional: true
+      persist: false
